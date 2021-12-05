@@ -6,7 +6,7 @@
 
 Have a nice day! ✨
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=do-sieg&show_icons=true&theme=github_dark)
+---
 
 ### My regular tech
 ![HTML5](https://img.shields.io/badge/-HTML5-111?&logo=html5)
@@ -26,6 +26,8 @@ Have a nice day! ✨
 ![Less](https://img.shields.io/badge/-Less-111?&logo=less)
 ![Git](https://img.shields.io/badge/-Git-111?&logo=git)
 ![SEO](https://img.shields.io/badge/-SEO-111?&logo=googlesearchconsole)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=do-sieg&show_icons=true&theme=github_dark)
 
 
 
